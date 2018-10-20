@@ -34,7 +34,7 @@ _9:00-11:00	Tuesday Morning session I, Chitlada I - [other time zones](https://w
 
 ### Proposed / Related Work
 
-_TBD_
+* 15 min - [HTTP/2 as a Transport](https://tools.ietf.org/html/draft-kinnear-httpbis-http2-transport-00) - *Eric Kinnear*
 
 
 ## Thursday, 8 November 2018
